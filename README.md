@@ -1,4 +1,4 @@
-# Titanic-Survival-Analysis
+# Titanic-Survival-Analysis (Group project)
 Analyze titanic data on SparkSQL
 1. Join dataframes
 2. Getting average fare by class and sex
